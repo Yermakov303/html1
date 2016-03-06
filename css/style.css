@@ -1,24 +1,19 @@
 body  {
-width: 500px; 
 height: 750px;
+width: 80%;
+max-width: 550px;
 margin: 0 auto;
+margin: 2em auto;
+padding: 1em;
 font-size: 18px;
-    
+box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);  
 }
-h2{padding-top: 20px;
-    
+h2  {
+padding-top: 20px;
 }
 .center {
 text-align: center;
 }
-
 .padding {
 padding-left: 50px;
-}
-.boxShadow8 {
-width: 80%;
-max-width: 550px;
-margin: 2em auto;
-padding: 1em;
-box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
 }
